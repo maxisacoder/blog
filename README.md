@@ -4,5 +4,5 @@
 原博客地址：
 
 
-2. https://cnaiko.github.io/ 
-1. http://blog.sina.com.cn/u/2647396281 (大学时期遗址)
+2. maxisacoder.github.io (技术blog，一锅炖)
+1. blog.sina.com.cn/u/2647396281 (大学时期遗址)
